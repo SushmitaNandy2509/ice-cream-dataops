@@ -1,0 +1,6 @@
+- externalId: ds_icapi
+  name: Overall Equipment Effectiveness Use Case
+  description: This dataset contains asset data for the Overall Equipment Effectiveness Use Case.
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit
