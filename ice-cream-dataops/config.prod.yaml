@@ -16,7 +16,7 @@ variables:
       scheduleHourly: '*/10 * * * *'
 
       data_foundation:
-        data_developer_source_id: 6e7a165f-f5c7-4721-b390-39244d832fbf
+        data_developer_source_id: df5792cd-ee75-425e-8409-24c41b59962d
       ice_cream_api:
         icapi_extractors_source_id: 2fbc397c-fe6b-4350-a53a-a4e197847d13
         tokenUri: ${IDP_TOKEN_URL}
