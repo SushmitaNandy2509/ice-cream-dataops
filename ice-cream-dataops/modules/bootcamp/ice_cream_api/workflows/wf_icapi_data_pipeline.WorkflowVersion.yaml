@@ -27,7 +27,7 @@ workflowDefinition:
     parameters:
       function:
         externalId: icapi_datapoints_extractor
-        data: { "hours": 1 }
+        data: { "mins": 2 }
     retries: 3
     timeout: 3600
     onFailure: abortWorkflow
@@ -38,7 +38,7 @@ workflowDefinition:
     parameters:
       function:
         externalId: oee_timeseries
-        data: { "hours": 1 }
+        data: { "mins": 2 }
     retries: 3
     timeout: 3600
     onFailure: abortWorkflow
